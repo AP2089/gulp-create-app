@@ -1,0 +1,32 @@
+{
+  "name": "gulp-create-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gulp serve",
+    "build": "gulp build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-json-minify": "^1.2.2",
+    "gulp-newer": "^1.4.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-svg-sprite": "^2.0.0",
+    "gulp-webp": "^4.0.1",
+    "sass": "^1.55.0",
+    "terser-webpack-plugin": "^5.3.6",
+    "webpack-stream": "^7.0.0"
+  }
+}
